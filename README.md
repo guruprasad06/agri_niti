@@ -67,10 +67,6 @@ Works on older smartphones
 
 SMS/IVR ready (extendable)
 
-# AI Logic (Prototype)
-
-Trend-based price prediction
-
 Profit estimation formula
 
 Basic scam detection
