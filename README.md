@@ -18,7 +18,7 @@ Storage center option
 
 Market trend graphs
 
-🛒 Buyer Dashboard
+# Buyer Dashboard
 
 View available crops
 
@@ -42,13 +42,10 @@ Supply-demand insights
 
 Frontend
 
-React (Vite)
+React (Vite),HTML5
 
-Tailwind CSS
+Tailwind CSS,CSS 3
 
-Recharts
-
-Axios
 
 Backend
 
